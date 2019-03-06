@@ -15,9 +15,12 @@ Generate your access keys in Jira
 1. Go to: https://smartbear.atlassian.net/secure/Dashboard.jspa
 
 2. Click 'tests'
-![Alt text](readmeImages/tests.png?raw=true "Test")
+![Alt text](readmeImages/tests.png?raw=true "Test" | width=100)
 3. Click 'API Keys'
-![Alt text](readmeImages/apiJeys.png?raw=true "Api Keys")
+![Alt text](readmeImages/apiKeys.png?raw=true "Api Keys" | width=100)
+4. Copy 'Accees Key' and 'Secret Key'
+![Alt text](readmeImages/apiKeysScreen.png?raw=true "Api Keys" | width=100)
+
 
 Create .env with the following
 ```
