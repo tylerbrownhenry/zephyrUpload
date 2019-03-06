@@ -1,4 +1,4 @@
-# Zephy Upload
+# Zephyr Upload
 
 Script for connecting to Zephyr to upload files
 
