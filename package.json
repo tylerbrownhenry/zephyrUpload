@@ -1,0 +1,20 @@
+{
+  "name": "uploadfilestozephyr",
+  "version": "1.0.0",
+  "description": "Script for connecting to Zephyr to upload files",
+  "main": "index.js",
+  "scripts": {
+    "init": "node index.js"
+  },
+  "author": "Tyler Henry",
+  "license": "ISC",
+  "dependencies": {
+    "atlassian-jwt": "^1.0.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^6.2.0",
+    "form-data": "^2.3.3",
+    "npm": "^6.8.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
