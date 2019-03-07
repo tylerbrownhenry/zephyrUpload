@@ -40,7 +40,7 @@ function makeRequest(config){
         'iss': accessKey,
         'iat': iat,
         'exp': exp,
-        'qsh': '82706ffd3a0d43ccf4d8e90eacf113fbc8a5949104aa280b0b4f52399a8cbf05' || encodedQSH
+        'qsh': '' || encodedQSH
     };
 
     const token = jwt.encode(payload, secretKey);
